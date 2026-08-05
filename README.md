@@ -89,6 +89,9 @@ Adaptive DSA tutoring powered by Generative AI.
 
 `Python` · `GenAI`
 
+<img src="https://img.shields.io/github/stars/adityaamitra/AlgoSensei-GenAI?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/adityaamitra/AlgoSensei-GenAI?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
+
 </td>
 <td width="50%" valign="top">
 
@@ -97,6 +100,9 @@ Adaptive DSA tutoring powered by Generative AI.
 Autonomous multi-agent system for personal productivity.
 
 `Python` · `LLM`
+
+<img src="https://img.shields.io/github/stars/adityaamitra/Multi-Agent-Personal-Productivity-Assistant?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/adityaamitra/Multi-Agent-Personal-Productivity-Assistant?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
 
 </td>
 </tr>
@@ -109,6 +115,9 @@ RL agents trained with LLMs on Atari Freeway.
 
 `Jupyter` · `DQN`
 
+<img src="https://img.shields.io/github/stars/adityaamitra/LLM-Agents-Deep-Q-Learning-with-Atari-Game-Freeway-?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/adityaamitra/LLM-Agents-Deep-Q-Learning-with-Atari-Game-Freeway-?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
+
 </td>
 <td width="50%" valign="top">
 
@@ -117,6 +126,9 @@ RL agents trained with LLMs on Atari Freeway.
 Domain-specific medical question answering system.
 
 `Jupyter` · `NLP`
+
+<img src="https://img.shields.io/github/stars/adityaamitra/Medical-Question-Answering-System-with-Fine-tuned-LLM?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/adityaamitra/Medical-Question-Answering-System-with-Fine-tuned-LLM?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
 
 </td>
 </tr>
@@ -129,6 +141,9 @@ AI-driven interactive coaching platform.
 
 `HTML` · `AI`
 
+<img src="https://img.shields.io/github/stars/adityaamitra/AI_Coach_Corner?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/adityaamitra/AI_Coach_Corner?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
+
 </td>
 <td width="50%" valign="top">
 
@@ -138,23 +153,12 @@ Autonomous reflex agent for room cleaning.
 
 `Python` · `AI`
 
+<img src="https://img.shields.io/github/stars/adityaamitra/Smart_Room_Cleaning_Agent?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/adityaamitra/Smart_Room_Cleaning_Agent?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
+
 </td>
 </tr>
 </table>
-
-<br />
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=adityaamitra&theme=tokyonight&hide_border=true&background=0d1117&ring=4af2b8&fire=7eb8fa&currStreakLabel=4af2b8&sideLabels=e2eaf5&dates=7eb8fa" alt="GitHub Streak" width="95%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaamitra&theme=tokyo-night&bg_color=0d1117&color=e2eaf5&title_color=4af2b8&line=4af2b8&point=7eb8fa&area=true&area_color=1a3a4a&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityaamitra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies" width="95%" />
-
-</div>
 
 <br />
 
