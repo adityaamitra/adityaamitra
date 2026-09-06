@@ -1,177 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1a3a4a,100:4af2b8&height=190&section=header&text=Aditya%20Mitra&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20MS%20Information%20Systems%20%40%20NEU&descAlignY=56&descSize=15&descColor=7eb8fa&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:FFD166&height=210&section=header&text=Hey,%20I'm%20Aditya%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Curious%20Human&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Aditya Mitra — Software Engineer and AI Builder" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=4AF2B8&center=true&vCenter=true&width=620&height=45&lines=Building+scalable+full-stack+apps;Crafting+LLM+%26+multi-agent+systems;Fine-tuning+models+for+real+problems;Passionate+about+AI+%26+Information+Systems)](https://git.io/typing-svg)
+I build software that helps people learn, think, and get things done.
 
-<a href="https://adityamitra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=4af2b8" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mitraditya23/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=7eb8fa" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Northeastern%20University-0d1117?style=flat-square&logo=googlescholar&logoColor=4af2b8" alt="Northeastern University" />
-<img src="https://img.shields.io/badge/Open%20to%20collaborate-0d1117?style=flat-square&logo=githubsponsors&logoColor=4af2b8" alt="Open to collaborate" />
-<img src="https://img.shields.io/github/followers/adityaamitra?style=flat-square&logo=github&label=Followers&labelColor=0d1117&color=1a3a4a" alt="Followers" />
+
+
+
+
+📍 Boston, MA  •  🎓 MS in Information Systems, Northeastern University  •  💼 Open to software engineering opportunities
 
 </div>
 
-<br />
+A little about me
 
-## 👋 About Me
+const aditya = {
+  builds: ["full-stack products", "AI agents", "learning tools"],
+  caresAbout: ["useful UX", "reliable systems", "responsible AI"],
+  background: "3 years building and supporting banking systems at TCS",
+  currentSideQuest: "turning scrolling into studying",
+  always: "learning by shipping",
+};
 
-```python
-aditya = {
-    "name"      : "Aditya Mitra",
-    "role"      : "Full-Stack Developer + AI/ML Engineer",
-    "education" : "MS Information Systems @ Northeastern University",
-    "focus"     : ["LLMs", "Multi-Agent Systems", "Scalable Apps"],
-    "status"    : "🎯 Focusing — Open to Collaborate",
-    "links"     : {
-        "portfolio" : "https://adityamitra.vercel.app/",
-        "linkedin"  : "https://linkedin.com/in/mitraditya23",
-    },
-}
-```
+I enjoy taking ideas from a rough sketch to a working product: shaping the experience, building the APIs, connecting the data, and sweating the details that make it pleasant to use.
 
-> Working at the intersection of **applied AI** and **full-stack engineering** — LLM and
-> multi-agent systems, and the scalable apps that put them to work.
+My favorite kind of project starts with: “There has to be a better way to do this.”
 
-<br />
-
-## 🛠️ Tech Stack
+What I'm building now
 
 <table>
 <tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-</td>
-</tr>
-<tr>
-<td><b>Frameworks</b></td>
-<td>
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-</td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td>
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=e2eaf5" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" />
-</td>
-</tr>
-<tr>
-<td><b>Tooling</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=e2eaf5" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=e2eaf5" alt="Vercel" />
-</td>
-</tr>
-</table>
+<td width="58%" valign="top">
 
-<br />
+📱 ByteScroll
 
-## 📌 Featured Projects
+Trade scrolling for skill. A mobile-first learning feed for Python, DSA, and system design—with lessons, quizzes, XP, streaks, spaced review, and cross-device progress.
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🧠 [AlgoSensei-GenAI](https://github.com/adityaamitra/AlgoSensei-GenAI)
 
-Adaptive DSA tutoring powered by Generative AI.
-
-`Python` · `GenAI`
-
-<img src="https://img.shields.io/github/stars/adityaamitra/AlgoSensei-GenAI?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
-<img src="https://img.shields.io/github/last-commit/adityaamitra/AlgoSensei-GenAI?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
+Next.js TypeScript FastAPI Supabase PostgreSQL
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### 🤖 [Multi-Agent Productivity Assistant](https://github.com/adityaamitra/Multi-Agent-Personal-Productivity-Assistant)
+🧠 AlgoSensei
 
-Autonomous multi-agent system for personal productivity.
+A Socratic DSA tutor that gives the smallest useful hint—without leaking the solution. Includes code analysis, screenshot OCR, RAG, and progress tracking.
 
-`Python` · `LLM`
 
-<img src="https://img.shields.io/github/stars/adityaamitra/Multi-Agent-Personal-Productivity-Assistant?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
-<img src="https://img.shields.io/github/last-commit/adityaamitra/Multi-Agent-Personal-Productivity-Assistant?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 [LLM Agents + Deep Q-Learning](https://github.com/adityaamitra/LLM-Agents-Deep-Q-Learning-with-Atari-Game-Freeway-)
-
-RL agents trained with LLMs on Atari Freeway.
-
-`Jupyter` · `DQN`
-
-<img src="https://img.shields.io/github/stars/adityaamitra/LLM-Agents-Deep-Q-Learning-with-Atari-Game-Freeway-?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
-<img src="https://img.shields.io/github/last-commit/adityaamitra/LLM-Agents-Deep-Q-Learning-with-Atari-Game-Freeway-?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [Medical QA with Fine-tuned LLM](https://github.com/adityaamitra/Medical-Question-Answering-System-with-Fine-tuned-LLM)
-
-Domain-specific medical question answering system.
-
-`Jupyter` · `NLP`
-
-<img src="https://img.shields.io/github/stars/adityaamitra/Medical-Question-Answering-System-with-Fine-tuned-LLM?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
-<img src="https://img.shields.io/github/last-commit/adityaamitra/Medical-Question-Answering-System-with-Fine-tuned-LLM?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏋️ [AI Coach Corner](https://github.com/adityaamitra/AI_Coach_Corner)
-
-AI-driven interactive coaching platform.
-
-`HTML` · `AI`
-
-<img src="https://img.shields.io/github/stars/adityaamitra/AI_Coach_Corner?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
-<img src="https://img.shields.io/github/last-commit/adityaamitra/AI_Coach_Corner?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🧹 [Smart Room Cleaning Agent](https://github.com/adityaamitra/Smart_Room_Cleaning_Agent)
-
-Autonomous reflex agent for room cleaning.
-
-`Python` · `AI`
-
-<img src="https://img.shields.io/github/stars/adityaamitra/Smart_Room_Cleaning_Agent?style=flat-square&logo=github&logoColor=4af2b8&label=Stars&labelColor=0d1117&color=1a3a4a" alt="Stars" />
-<img src="https://img.shields.io/github/last-commit/adityaamitra/Smart_Room_Cleaning_Agent?style=flat-square&logo=git&logoColor=7eb8fa&label=Updated&labelColor=0d1117&color=1a3a4a" alt="Last commit" />
+Python FastAPI LLMs Qdrant RAG
 
 </td>
 </tr>
 </table>
 
-<br />
+More things I've shipped
 
-## 🤝 Let's Connect
+Project
+
+What it does
+
+Built with
+
+🤖 Greenhouse Job Agent
+
+Finds Greenhouse jobs, matches them to multiple resumes, prioritizes strong fits, and tracks outcomes
+
+Python · AI agents
+
+🧩 Multi-Agent Productivity Assistant
+
+Coordinates specialized agents to help plan and manage everyday work
+
+Python · LLMs · agents
+
+🩺 Medical QA System
+
+Explores domain-specific question answering with a fine-tuned language model
+
+Jupyter · NLP · fine-tuning
+
+🎮 LLM Agents + Deep Q-Learning
+
+Trains and studies agents playing Atari Freeway
+
+Jupyter · DQN · reinforcement learning
+
+My toolbox
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-adityamitra.vercel.app-4af2b8?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117)](https://adityamitra.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mitraditya23-7eb8fa?style=for-the-badge&logo=linkedin&logoColor=7eb8fa&labelColor=0d1117)](https://www.linkedin.com/in/mitraditya23/)
-[![GitHub](https://img.shields.io/badge/GitHub-adityaamitra-e2eaf5?style=for-the-badge&logo=github&logoColor=e2eaf5&labelColor=0d1117)](https://github.com/adityaamitra)
+Languages
 
-<sub>Open to collaboration on AI/ML and full-stack projects — reach out any time.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4af2b8,55:1a3a4a,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%" />
+
+
+
+
+
+Products & APIs
+
+
+
+
+
+
+
+Data & delivery
+
+
+
+
+
+
+
+
+</div>
+
+How I like to work
+
+🧭 Start with the user and the actual problem—not the trendiest tool.
+
+🧱 Build small, test the risky parts early, and keep the architecture understandable.
+
+✨ Treat good UX as part of engineering, not decoration added at the end.
+
+🧪 Stay curious: every shipped project should teach me something the last one couldn't.
+
+<div align="center">
+
+Have an interesting problem to build around?
+
+
+
+
+<sub>Open to software engineering roles, thoughtful collaborations, and good conversations about building useful things.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD166,50:00C9A7,100:6C63FF&height=100&section=footer" width="100%" alt="Colorful footer" />
 
 </div>
